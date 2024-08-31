@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #e6ecf0;
+    background-color: #F4A5D3;
     color: #14171a;
 }
 
@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #ffffff;
+    background-color: pink;
     padding: 10px 20px;
     border-bottom: 1px solid #e6ecf0;
     position: fixed;
@@ -27,7 +27,7 @@ body {
 
 .logo h1 {
     font-size: 24px;
-    color: #1da1f2;
+    color: #AFF270;
 }
 
 .nav-links a {
@@ -202,7 +202,7 @@ body {
     outline: none;
     padding: 10px;
     border-radius: 25px;
-    background-color: #f5f8fa;
+    background-color: blue-sky;
 }
 
 .search-box input::placeholder {
@@ -238,7 +238,7 @@ body {
         top: 60px;
         left: -250px;
         height: 100%;
-        background-color: #ffffff;
+        background-color: pink;
         width: 250px;
         transition: left 0.3s;
         box-shadow: 2px 0 5px rgba(0,0,0,0.1);
