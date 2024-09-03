@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #F4A5D3;
-    color: #F4A5D3;
+    color: #7BDCF1;
 }
 
 /* Navbar Styles */
@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #F4A5D3;
+    background-color: #7BC7F1;
     padding: 10px 20px;
     border-bottom: 1px solid #e6ecf0;
     position: fixed;
@@ -27,7 +27,7 @@ body {
 
 .logo h1 {
     font-size: 24px;
-    color: #AFF270;
+    color: #2980B9;
 }
 
 .nav-links a {
@@ -70,14 +70,14 @@ body {
     align-items: center;
     padding: 10px;
     text-decoration: none;
-    color: #14171a;
+    color: #F4F4F4;
     border-radius: 25px;
     margin-bottom: 10px;
-    transition: background 0.2s;
+    transition: background 0.2sV;
 }
 
 .sidebar nav a:hover {
-    background-color: #e8f5fe;
+    background-color: #C5E3F8;
 }
 
 .sidebar nav a i {
@@ -91,7 +91,7 @@ body {
 }
 
 .tweet-box {
-    background-color: #ffffff;
+    background-color: #51575B; m
     padding: 15px;
     border-radius: 15px;
     display: flex;
@@ -238,7 +238,7 @@ body {
         top: 60px;
         left: -250px;
         height: 100%;
-        background-color: pink;
+        background-color: #3491CB;
         width: 250px;
         transition: left 0.3s;
         box-shadow: 2px 0 5px rgba(0,0,0,0.1);
